@@ -1,5 +1,5 @@
 cask "skillkeeper" do
-  version "2.0"
+  version "2.01"
   # skillkeeper-releases keeps one overwritten SkillKeeper.dmg on `main` per
   # release (same flat layout Sparkle's own appcast.xml already relies on,
   # see inBuro/skillkeeper-releases/README.md) rather than a per-version
